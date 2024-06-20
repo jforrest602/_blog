@@ -24,6 +24,6 @@ First and foremost, I'm watching [Proffessor Messer's](https://www.professormess
 Considering all of these resources, and there are plenty more available outh there that I haven't mentioned here, I feel confident that I have enough content delivered in various ways to reinforce the concepts and position me in a strong position to pass. The biggest hurdle was setting my apprehension aside and officially registering and setting a date to take the exam. Once I set that deadline I feel like there's no going back and have been able to focus my attention and effort on passing the exam. If you're struggling with self-doubt or are apprehensive about signing up, just do it and set a date in stone. That's the best advice I've received about the exam so far.   
 
 
-#*JMF*
+# *JMF*
 
 _Update: I passed!_
