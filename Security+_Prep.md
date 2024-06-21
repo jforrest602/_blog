@@ -1,4 +1,4 @@
-# *Chapter 2: kentei  けんてい*
+# *Chapter Two: Kentei  けんてい*
 ![certs](https://github.com/jforrest602/cybersecurity-portfolio/assets/139130645/516dbbf7-bc06-4ee8-a095-32308339cd9e)
 
 
