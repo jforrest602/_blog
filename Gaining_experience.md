@@ -1,2 +1,6 @@
-***Chapter three: XYZ  
-![gaining experience post](https://github.com/user-attachments/assets/d42bcade-23fe-4162-adc0-f3317753c0af)
+# *Chapter Three: taiken たいけん*   
+![gaining experience post](https://github.com/user-attachments/assets/d42bcade-23fe-4162-adc0-f3317753c0af)  
+
+There exists a catch-22 for many who are trying to break into the IT or cybersecurity fields. That is, most entry-level job postings that I see require prior experience but, how do you gain experience without a job? If you studied the topics in the more traditional sense, you should be able to leverage the work and projects that you completed during that program. If you're someone like me, a non-traditional student gaining knowledge and earning certifications on your own, you will need to find a way to demonstrate your accomplishments to potential employers. For most people, this will come in the form of a portfolio. A portfolio is a compilation of materials that highlights your skills, qualifications, education, training, and experiences.   
+
+The importance of building a strong portfolio is emphasized throughout the Google Cybersecurity program but, I feel now that the content covered in that program may be a bit too novice for employers to take seriously. Furthermore, the CompTIA Security+ exam is primarily an exam focused on theory and industry jargon. Very few of the exam questions are performance-based. That leaves me in my current predicament of needing to gain more hands-on experience before securing an entry-level position. 
