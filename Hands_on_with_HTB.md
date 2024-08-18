@@ -1,4 +1,5 @@
 ### Chapter Four: A Dose of Reality
+![blog 4](https://github.com/user-attachments/assets/2870047a-4d69-4c2b-88aa-ef6934a6a4a5)
 
 Intro - importance of hands-on experience  
 HTB CDSA  
@@ -10,4 +11,11 @@ A common thread throughout many of the episodes is that the feature character ca
 
 For a noob such as myself, the importance of getting practical, hands-on experience cannot not be overstated.
 
-I introduced several ways to get hands-on experience in my previous post and won't rehash those here. If you're looking to learn more about what you options for gaining hands-on experience are, check out that post titled *Gaining Experience*.
+I introduced several ways to get hands-on experience in my previous post and won't rehash those here. If you're looking to learn more about what you options for gaining hands-on experience are, check out that post titled *Gaining Experience*. I have chosen to build my technical chops with Hack the Box. Specifically, I'm aiming to achieve their [Certified Defensive Security Analyst](https://academy.hackthebox.com/preview/certifications/htb-certified-defensive-security-analyst) certification. I chose to go this route because I hope to secure a blue team role, like SOC analyst, and because it was highly recommended to me by someone already in the industry. 
+
+You earn the certification by completing the SOC Analyst role path within HTB and passing an exam.   
+HTB role paths   
+SOC role path   
+Exam   
+Outcomes  
+
