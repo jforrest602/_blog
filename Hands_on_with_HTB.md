@@ -1,4 +1,4 @@
-# *Chapter Four: Haiboku はいぼく A Dose of Reality*
+# *Chapter Four: Jisshuu じっしゅう Hands-on with HTB*
 ![blog 4](https://github.com/user-attachments/assets/2870047a-4d69-4c2b-88aa-ef6934a6a4a5)
 
 As part of my journey, I have been listening and working my through all of the [Darknet Diaries](https://darknetdiaries.com/) podcast. I really enjoy it. Its entertaining and informative. If you're interested in the deep (dark side) of the web, social engineering, pen testing, or good sotrytelling, check it out.   
