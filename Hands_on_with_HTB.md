@@ -19,7 +19,9 @@ Working on HTB is challenging. First of all, I am facing a steep learning curve.
 
 I paused my progress on the SOC Analyst job role path and reverted to starting with a skill path SOC Analyst Prerequisites. Fortunate for me, this exists on HTB. I'm 60% of the way through this skill path now and it has proven to be the right decision. It has given me the chance to better understand the fundamentals of both Windows and Linux and I am becoming more comfortable interacting with these operating systems through the command line. I have also been introduced to PowerShell and bash scritping and have learned how powerful they can be. There has also been a section on networking that helped reinforce the concepts I learned prepaing for the Security+ certification. Now, I'm being introduced to Active Directory. Understanding AD and being able to configure it correctly could be an essential skill as most environments are employing it. I'm looking forward to taking on the rest of this learning path and gaining more confidence in the fundamental skills required to be a qualified SOC Analyst.  
 
-A particular challenge that I am facing with the HTB platform is that it is primarily text-based learning. You read the material, you answer questions, and complete the activities. 
+A particular challenge that I am facing with the HTB platform is that it is primarily text-based learning. You read the material, you answer questions, and complete the activities. If you are a visual learner, HTB may not be the best for you. There are images and graphs where appropriate but, I find it challenging to retain information if I'm taking in too much text. What I read ten minutes ago escapes me if I'm busy ingesting new content. Instead, what I have found that works for me is to ingest the content on HTB and follow that up with explainer videos from YouTube University. It basically doubles the time commitment to learning the contentbut, learning the content is the goal and I'm just wasting time if I'm not actually learning.
+
+
 
  
 
