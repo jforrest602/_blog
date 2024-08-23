@@ -21,7 +21,9 @@ I paused my progress on the SOC Analyst job role path and reverted to starting w
 
 A particular challenge that I am facing with the HTB platform is that it is primarily text-based learning. You read the material, you answer questions, and complete the activities. If you are a visual learner, HTB may not be the best for you. There are images and graphs where appropriate but, I find it challenging to retain information if I'm taking in too much text. What I read ten minutes ago escapes me if I'm busy ingesting new content. Instead, what I have found that works for me is to ingest the content on HTB and follow that up with explainer videos from YouTube University. It basically doubles the time commitment to learning the contentbut, learning the content is the goal and I'm just wasting time if I'm not actually learning.
 
+I'm going to keep working and see if I can dive into some more technical aspects next post.
 
+## JMF
 
  
 
