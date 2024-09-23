@@ -16,11 +16,11 @@ This process is fundamental to how the internet works, enabling the retrieval an
 
 Let’s say you’re getting ready to apply to colleges. One of the first things you might want to do before you decide to apply to a school is visit that schools website. Hypothetically, you are looking for a school with a small enrollment, high acceptance rate, and adventure so, you decide that you want to learn more about [Alaska Pacific University](https://www.alaskapacific.edu/). You open up your preferred web browser and type in the URL alaskapacific.edu.
 
-What happens next are a number of steps that take place at dizzying speeds to display the website in your browser, for all intents and purposes, instantaneously (in most cases).  If this is the first time you are visiting the site, your computer (the client) sends a request to a DNS ([Domain Name System](https://www.cloudflare.com/learning/dns/what-is-dns/)) server to translate the URL into an [IP address](https://en.wikipedia.org/wiki/IP_address). The client sends the URL and the DNS server returns the IP address. 
+What happens next are a number of steps that take place at dizzying speeds to display the website in your browser, for all intents and purposes, instantaneously (in most cases).  If this is the first time that you are visiting the website, your computer (the client) sends a request to a DNS ([Domain Name System](https://www.cloudflare.com/learning/dns/what-is-dns/)) server to translate the URL into an [IP address](https://en.wikipedia.org/wiki/IP_address). The client sends the URL and the DNS server returns the IP address. 
 
 Once your web browser has the IP address, it sends a GET request to a web server via port 80, the default port for HTTP, asking for the root path (/). The root path is the location where all of the website’s files and information are saved. The web server processes the request, reads and returns the contents of the [index file](https://www.thoughtco.com/index-html-page-3466505) to your browser in an HTTP response. The browser then renders the index file to the website that appears on your screen. 
 
-This all takes place in a matter of seconds and it is not just visiting websites that utilizes these requests. Whether you're browsing a website, sending an email, or streaming a video, web requests are constantly at work behind the scenes. 
+This all takes place in a matter of seconds but, it's not just visiting websites that utilizes these requests. Whether you're browsing a website, sending an email, or streaming a video, web requests are constantly at work behind the scenes. 
 
 ## The Request-Response Cycle
 
