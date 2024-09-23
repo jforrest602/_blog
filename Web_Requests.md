@@ -24,7 +24,7 @@ This all takes place in a matter of seconds and it is not just visiting websites
 
 ## The Request-Response Cycle
 
-As you can see from the example above, when a web request is made, a cycle is initiated.
+As you can see from the example above, when a web request is made, a cycle is initiated:
 
 1. The client sends a request to the server
 2. The server processes the request
@@ -50,4 +50,34 @@ There are several types of web requests, each serving a different purpose:
 - **DELETE:** Used to remove a resource from the server
 - **HEAD:** Similar to GET but retrieves only headers, not the body of the response
 
+## Importance for Blue Teamers
 
+Understanding web requests is a fundamental skill for security professionals because web-based attacks are a primary vector for malicious activity. Knowledge of web requests enable blue teamers to:
+
+### - Recognize Malicious Activity
+  - Web-based attacks like cross-site scripting, SQL injection, and cross-site request forgery try to exploit vulnerabilities in how web applications handle requests. Understanding the structure of HTTP requests and responses helps defenders spot abnormal activity indicative of these tyoes of attacks.
+ 
+### - Identify Vulnerabilities
+  - Knowing how web requests interact with a server and its applications allows security professionals to identify potential weaknesses in the way data is handled, including analyzing GET/POST requests.
+    
+  - Understanding how data flows between client and server enables defenders to spot issues like unencrypted transmissions.
+
+### - Mitigate & Respond to Attacks
+  - During an incident, clear analysis of web traffic logs will help to understand the attacker's actions and vectors. It can assist in tracing the attack, identifying compromised areas, or determioning how the attack was delivered.
+    
+  -   Analyzing request patterns, header manipulation, and other abnormalities can help to identify whether the attack is part of a broader strategy.
+
+### - Understand Attack Methods
+  - Many attacks leverage web requests to deliver payloads, execute malicious scripts, or manipulate a system. Knowledge of how web requests are crafted helps blue teamers understand how phishing, malware injection, and botnets operate in real-world scenarios
+
+### - Harden Web Applications
+  - To secure web applications effectively, defenders need to know how developers may inadvertently expose the system to attacks. This includes insecure use of cookies, improper request validation, or insecure session handling.
+    
+  - Knowledge of how web requests are built and processed enables cybersecurity professionals to suggest coding best practices, such as validating inputs, using HTTPS, and implementing secure session management.
+
+### - Support Incident Response & Forensics
+  - When a breach or attack occurs, log analysis and packet captures are key tools for cybersecurity teams. Knowing how web requests look at different stages of an attack helps analysts reconstruct what happened and supports faster remediation.
+
+  - Web requests provide crucial evidence for forensic analysis, enabling professionals to attribute attacks and understand attackers' tactics, techniques, and procedures (TTPs).
+
+In summary, understanding web requests empowers defensive cybersecurity professionals to identify, block, and respond to web-based threats, while also helping them to secure applications and networks more effectively.
