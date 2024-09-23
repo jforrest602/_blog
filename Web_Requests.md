@@ -8,15 +8,15 @@
 
 Whether you are aware of it or not, thousands of web requests are likely taking place in your hand each and every day, if you use apps on your phone. Both mobile and web apps are constantly interacting with the internet. That communication happens primarily through web requests and the HTTP protocol.
 
-Communication via HTTP involves two parties, a client and a server. The client (the device you’re using) sends a request for information or action to a server (a computer that stores and provides resources). The server processes the request and returns the requested resource to the client. 
+Communication via HTTP involves two parties: a client and a server. The client (the device you’re using) sends a request for information or action to a server (a computer that stores and provides resources). The server processes the request and returns the requested resource to the client. 
 
 This process is fundamental to how the internet works, enabling the retrieval and display of web pages, the submission of form data, and much more.
 
 ## Visiting a Website
 
-Let’s say you’re getting ready to apply to colleges. One of the first things you might want to do before you decide to apply to a school is visit that schools website. Hypothetically, you are looking for a school with a small enrollment, high acceptance rate, and adventure so you decide that you want to learn more about [Alaska Pacific University](https://www.alaskapacific.edu/). You open up your preferred web browser and type in the URL alaskapacific.edu.
+Let’s say you’re getting ready to apply to colleges. One of the first things you might want to do before you decide to apply to a school is visit that schools website. Hypothetically, you are looking for a school with a small enrollment, high acceptance rate, and adventure so, you decide that you want to learn more about [Alaska Pacific University](https://www.alaskapacific.edu/). You open up your preferred web browser and type in the URL alaskapacific.edu.
 
-What happens next are a number of steps that take place at dizzying speeds to display the website in your browser almost instantaneously (in many cases inside the U.S. and other developed nations).  If this is the first time you are visiting the site, your computer (the client) sends a request to a DNS ([Domain Name System](https://www.cloudflare.com/learning/dns/what-is-dns/)) server to translate the URL into an [IP address](https://en.wikipedia.org/wiki/IP_address). The client sends the URL and the DNS server returns the IP address. 
+What happens next are a number of steps that take place at dizzying speeds to display the website in your browser, for all intents and purposes, instantaneously (in most cases).  If this is the first time you are visiting the site, your computer (the client) sends a request to a DNS ([Domain Name System](https://www.cloudflare.com/learning/dns/what-is-dns/)) server to translate the URL into an [IP address](https://en.wikipedia.org/wiki/IP_address). The client sends the URL and the DNS server returns the IP address. 
 
 Once your web browser has the IP address, it sends a GET request to a web server via port 80, the default port for HTTP, asking for the root path (/). The root path is the location where all of the website’s files and information are saved. The web server processes the request, reads and returns the contents of the [index file](https://www.thoughtco.com/index-html-page-3466505) to your browser in an HTTP response. The browser then renders the index file to the website that appears on your screen. 
 
