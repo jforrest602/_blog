@@ -61,7 +61,7 @@ Understanding web requests is a fundamental skill for security professionals bec
   - Understanding how data flows between client and server enables defenders to spot issues like unencrypted transmissions.
 
 ### 3. Mitigate & Respond to Attacks
-  - During an incident, clear analysis of web traffic logs will help to understand the attacker's actions and vectors. It can assist in tracing the attack, identifying compromised areas, or determioning how the attack was delivered.
+  - During an incident, clear analysis of web traffic logs will help to understand the attacker's actions and vectors. It can assist in tracing the attack, identifying compromised areas, or determining how the attack was delivered.
     
   -   Analyzing request patterns, header manipulation, and other abnormalities can help to identify whether the attack is part of a broader strategy.
 
