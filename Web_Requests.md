@@ -2,8 +2,6 @@
 
 ![Web Requests](https://github.com/user-attachments/assets/187bf552-8f33-4949-b4e5-47b36235a2df)
 
-### *This post is currently under construction.*
-
 # Web Request Basics
 
 Whether you are aware of it or not, thousands of web requests are likely taking place in your hand each and every day, if you use apps on your phone. Both mobile and web apps are constantly interacting with the internet. That communication happens primarily through web requests and the HTTP protocol.
@@ -54,10 +52,10 @@ There are several types of web requests, each serving a different purpose:
 
 Understanding web requests is a fundamental skill for security professionals because web-based attacks are a primary vector for malicious activity. Knowledge of web requests enable blue teamers to:
 
-### - Recognize Malicious Activity
-  - Web-based attacks like cross-site scripting, SQL injection, and cross-site request forgery try to exploit vulnerabilities in how web applications handle requests. Understanding the structure of HTTP requests and responses helps defenders spot abnormal activity indicative of these tyoes of attacks.
+### 1. Recognize Malicious Activity
+  - Web-based attacks like cross-site scripting (XSS), SQL injection, and cross-site request forgery (CSRF) try to exploit vulnerabilities in how web applications handle requests. Understanding the structure of HTTP requests and responses helps defenders spot abnormal activity indicative of these types of attacks.
  
-### - Identify Vulnerabilities
+### 2. Identify Vulnerabilities
   - Knowing how web requests interact with a server and its applications allows security professionals to identify potential weaknesses in the way data is handled, including analyzing GET/POST requests.
     
   - Understanding how data flows between client and server enables defenders to spot issues like unencrypted transmissions.
